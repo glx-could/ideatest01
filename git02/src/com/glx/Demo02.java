@@ -6,6 +6,7 @@ public class Demo02 {
     }
 
 
+    //打个注释
     public void test02(){
         System.out.println("第一次修改代码");
     }
